@@ -17,4 +17,4 @@ It certainly affects the oscillator's frequency, but the effect on the audible r
 
 ## LICENSE
 [MIT License](./LICENSE)  
-Originally designed by [Forrest Mims](https://en.wikipedia.org/wiki/Forrest_Mims) in the 1980s, and then named by Kaustic Machines.
+Originally designed by [Forrest Mims](https://en.wikipedia.org/wiki/Forrest_Mims), and then named by Kaustic Machines in the 1980s.
