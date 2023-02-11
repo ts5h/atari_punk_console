@@ -1,5 +1,5 @@
 # Atari Punk Console
-An Atari Punk console with two NE555P chips.  
+An Atari Punk console with double NE555P chips.  
   
 ![photo](https://user-images.githubusercontent.com/1344010/218284120-abb7cf4b-5078-4fcc-ad97-6e052ad9111f.jpg)
 
